@@ -1,0 +1,966 @@
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:18:37
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["2be1b4ab-3cee-43d9-80b3-0f6f023569f7"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:18:37
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["66a1e81a-9038-4e1e-bc62-b7681ce5562e"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:18:38
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["dad51719-7a32-4f98-a104-053bc30babbe"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:19:18
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["2e4cebae-2217-4ee5-aeae-205903e4cdea"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:19:19
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["c62d39ed-153a-4018-a5e8-367666103d2a"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:19:20
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["8d455699-d15b-48b5-b9e6-a3c2283144c7"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:19:22
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["75f1b0e0-f81a-48fe-9fdb-848750b9ba8a"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:19:23
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["b440801c-b3cc-4907-99e6-f96757941fb1"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:19:23
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["e4485fc6-e760-40d6-b7eb-59a76f8e7ace"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:20:29
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["d3b5aae1-8955-4bf4-b217-1ddd852e2967"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:20:30
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["4e5b6c21-42f3-4b73-8095-846f54f34d5e"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:20:31
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["cadb62c8-2eb2-46d5-b368-2314fab7a53d"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:20:31
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["46563dbd-5b8c-497b-bdb4-4d449f67526b"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:20:31
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["fe52e908-a39c-4b9f-8132-d14d4e79cb87"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:20:32
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["64443c1b-96f6-487e-9aa6-3828878b2999"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:22:05
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["2adbd557-9096-4480-a689-4d3e9b522dbc"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:22:06
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["dbad2cdf-b388-491a-a1ba-2a0dee1c68ff"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:22:07
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["b73abf2c-c05d-494c-9778-47c9541aa8dc"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:23:12
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["2b9a46c3-a956-4c03-9f2e-8f5532e21706"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:23:13
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["dcd2b300-3120-4d38-9d42-bebc9515b1a2"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:23:14
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["cb72a8ec-d964-46d0-a593-f7a9e2aee207"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:23:16
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["0cbb8cce-8679-482f-be25-336ecf7194e1"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:23:17
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["763ca8c9-2493-42a6-aa12-de5903effd9f"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:23:17
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["e57e2aba-6731-4659-bfc6-829f89d15283"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:24:41
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["e71fd9b8-b8e5-4018-8a56-886f4f03dee8"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:24:42
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["ed88d784-7b40-4470-912d-0eb5ed268001"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:24:43
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["27af4db6-16a2-4858-871c-025749ae4829"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:35:22
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["c013affc-74bc-4e7a-a025-330c15137d3b"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:35:23
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["7206b836-0bd8-4206-b294-512e938a43a8"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:35:24
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["408ae0cf-c382-4a9c-a1c2-12c369b461b8"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:37:08
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["5e3b0b00-59b6-4271-b898-7cc45ab8b394"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:37:09
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["8fa62f74-d74a-4c93-9b47-367d7be32e93"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:37:10
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["f1b65864-81a4-4d7a-b18d-6e0e7f71a093"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:38:47
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["575f105c-6554-425c-881f-52d4e793dcde"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-23)
+Interval (days left): 2
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:38:48
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["9faa8ded-928d-491d-b98b-40c891f77a7e"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-23)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-23 21:38:49
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["2a7d6254-0b70-4af8-bff9-e946662f2d26"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-23)
+Interval (days left): 152
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-23)
+Interval (days left): 121
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-23)
+Interval (days left): 91
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-23)
+Interval (days left): 60
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-23)
+Interval (days left): 29
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-23)
+Interval (days left): 8
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-24)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-24 14:16:00
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["c6267a71-d519-4146-b713-f390ded4fa79"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-24)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-24 14:16:01
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["e43af9bf-a099-430d-a234-c07829519c09"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-24)
+Interval (days left): 0
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-24 14:16:02
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["42730f26-587a-4a20-8476-8c28e7dea62a"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-24)
+Interval (days left): 151
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-24)
+Interval (days left): 120
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-24)
+Interval (days left): 90
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-24)
+Interval (days left): 59
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-24)
+Interval (days left): 28
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-24)
+Interval (days left): 7
+Reminder Sent: 0
+Checking Bill ID: 9
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-24)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-24 14:16:27
+To: 09467175812
+Message: Hello Marvin Boloabio! Your ₱1000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09467175812","text":"Hello Marvin Boloabio! Your \u20b11000 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["c32d6d67-f4dd-405c-8302-0ceae39dc89f"]
+==========================
+
+Checking Bill ID: 8
+Status: unpaid
+Due Date: 2025-06-26 (Today: 2025-06-24)
+Interval (days left): 1
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-24 14:16:29
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-26. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["7d3ae04f-e8f0-43ac-97a7-3ce1e4a815fd"]
+==========================
+
+Checking Bill ID: 7
+Status: unpaid
+Due Date: 2025-06-25 (Today: 2025-06-24)
+Interval (days left): 0
+Reminder Sent: 0
+====== SMS Attempt ======
+Date: 2025-06-24 14:16:30
+To: 09363168033
+Message: Hello asdasd! Your ₱1300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!
+Payload: [{"mobile":"09363168033","text":"Hello asdasd! Your \u20b11300 bill is due on 2025-06-25. Please settle to avoid disconnection. Thank you!"}]
+✅ Response: ["0d0acca3-91dd-4557-b31f-128765e28339"]
+==========================
+
+Checking Bill ID: 6
+Status: unpaid
+Due Date: 2025-11-23 (Today: 2025-06-24)
+Interval (days left): 151
+Reminder Sent: 0
+Checking Bill ID: 5
+Status: paid
+Due Date: 2025-10-23 (Today: 2025-06-24)
+Interval (days left): 120
+Reminder Sent: 0
+Checking Bill ID: 4
+Status: paid
+Due Date: 2025-09-23 (Today: 2025-06-24)
+Interval (days left): 90
+Reminder Sent: 0
+Checking Bill ID: 3
+Status: paid
+Due Date: 2025-08-23 (Today: 2025-06-24)
+Interval (days left): 59
+Reminder Sent: 0
+Checking Bill ID: 2
+Status: paid
+Due Date: 2025-07-23 (Today: 2025-06-24)
+Interval (days left): 28
+Reminder Sent: 0
+Checking Bill ID: 1
+Status: paid
+Due Date: 2025-07-02 (Today: 2025-06-24)
+Interval (days left): 7
+Reminder Sent: 0
